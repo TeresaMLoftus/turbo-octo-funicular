@@ -1,0 +1,11 @@
+To go to correct filepath
+
+
+cd "H:\EYARU\EY Policy-Quality outcomes and providers\Social Mobility\LA Scorecards\Learn_git"
+H: is mapped to the below
+\\lonnetapp01\asddata\EY-Schools-SEND\
+
+cd "\\lonnetapp01\asddata\EY-Schools-SEND\EYARU\EY Policy-Quality outcomes and providers\Social Mobility\LA Scorecards\Learn_git"
+
+
+

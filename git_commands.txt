@@ -1,0 +1,35 @@
+﻿
+
+git init
+
+git add <file>
+
+git status
+
+
+git commit //Commit Changes In Index
+
+git push //Push to remote repository
+
+git pull //Pull the latest from a remote repository
+
+git clone	//Clone Repository Into a New Directory
+
+// To download to windows Git Bash
+http://git-scm.com/download/win 
+
+git --version
+
+
+touch filename.txt // to create a file
+
+git config -- global user.name 'Miss Tery"
+git config -- global user.email 'me@notsurewhichemaolto use.com
+
+$ git add Filepath.txt
+
+git rm --cached Filepath.txt //takes file out of staging area
+
+git add *.txt // adds all * files to the staging area
+
+git add . //adds everything to staging area
