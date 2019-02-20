@@ -33,3 +33,8 @@ git rm --cached Filepath.txt //takes file out of staging area
 git add *.txt // adds all * files to the staging area
 
 git add . //adds everything to staging area
+
+
+git commit -m 'new files added'
+
+touch .gitignore // files we want git to ignore when we do git .
